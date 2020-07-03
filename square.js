@@ -10,4 +10,4 @@ function square(sqNums) {
     }
     console.log(printout);
 }
-square(2);
+square(4);

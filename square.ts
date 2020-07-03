@@ -11,4 +11,4 @@ function square(sqNums: number){
     console.log(printout);
 }
 
-square(2);
+square(4);
